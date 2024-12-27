@@ -1,0 +1,17 @@
+.table{
+    background-color: palevioletred;
+    color: white;
+    border-collapse:collapse;
+    text-align: center;
+    margin: 20px;
+}
+.id{
+    background-color: aqua;
+    padding: 100px;
+    margin: 100px;
+
+}
+th,td{
+    padding: 20px;
+}
+tr:nth-child(even)
